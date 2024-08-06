@@ -1,0 +1,14 @@
+Package: exercisecreate
+Title: Exercise Create
+Description: Create exercises for language learners.
+Version: 1.0
+Authors@R: person("Anzhalika", "Dubasava", email = "anzhalikad@gmail.com", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Requires: stringr
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Video: https://youtu.be/Mi84xmZL_pk
+NeedsCompilation: no
+Packaged: 2024-08-06 12:11:27 UTC; rstudio
+Author: Anzhalika Dubasava [aut, cre, cph]
+Maintainer: Anzhalika Dubasava <anzhalikad@gmail.com>
